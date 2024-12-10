@@ -9,16 +9,15 @@ assignees: ''
 
 **Wat is het probleem?**
 Beschrijf kort wat er niet werkt.
-- "De video van woord X speelt niet af."
+Bijvoorbeeld: "De video van woord X speelt niet af."
 
 **Wat deed je toen het mis ging?**
 Beschrijf stap voor stap wat je deed toen je het probleem tegenkwam.
-- Ik ging naar les 3
-- Klikte op woord X en toen gebeurde er niets
+Bijvoorbeeld: "Ik ging naar les 3, klikte op woord X en toen gebeurde er niets."
 
 **Wat verwachtte je dat er zou gebeuren?**
 Leg uit wat je dacht dat zou gebeuren.
-- "De video zou moeten starten."
+Bijvoorbeeld: "De video zou moeten starten."
 
 **Screenshots**
 Voeg screenshots toe als het kan helpen.
@@ -28,9 +27,9 @@ Voeg screenshots toe als het kan helpen.
  - Browser [Bijv. chrome, safari]
 
 **Gebruik je een mobiel, dan vul dit in:**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS/Android]
- - Browser [e.g. chrome, safari]
+ - Device: [Bijv. iPhone6]
+ - OS: [Bijv. iOS/Android]
+ - Browser [Bijv. chrome, safari]
 
 **Extra opmerkingen (optioneel)**
 Heb je nog iets extra's toe te voegen? Schrijf het hier.

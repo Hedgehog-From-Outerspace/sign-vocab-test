@@ -1,6 +1,6 @@
 ---
 name: Suggestie of Aanpassing
-about: Simpele maner om een suggestie of wijziging voor te stellen.
+about: Simpele manier om een suggestie of wijziging voor te stellen.
 title: ''
 labels: enhancement
 assignees: ''

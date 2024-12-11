@@ -8,5 +8,9 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
+  startTest() {
+    console.log("test started");
+  }
+
   title = 'sign-vocab-test';
 }

@@ -1,0 +1,18 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+}
+
+.page-title {
+    background: linear-gradient(to right, #28af53, #297fc1); /* Gradient colors */
+    -webkit-background-clip: text; /* For webkit browsers */
+    -webkit-text-fill-color: transparent; /* Makes the text transparent to show the gradient */
+    font-size: 2.5rem; /* Optional, adjust as needed */
+    font-weight: bold; /* Optional, adjust as needed */
+    text-align: center; /* Optional, adjust as needed */
+}
+  
